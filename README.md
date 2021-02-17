@@ -1,5 +1,5 @@
 # MIT-6.0001-Introduction-to-CS
-Compilation of my assignment answers. 
+Compilation of my assignment answers in python3.
 
 Source of lecture videos: https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
 
