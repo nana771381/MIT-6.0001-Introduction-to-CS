@@ -1,0 +1,71 @@
+ps1a:
+
+Test Case 1
+>>>
+Enter your annual salary: 120000
+Enter the percent of your salary to save, as a decimal: .10
+Enter the cost of your dream home: 1000000
+Number of months: 183
+>>>
+
+Test Case 2
+>>>
+Enter your annual salary: 80000
+Enter the percent of your salary to save, as a decimal: .15
+Enter the cost of your dream home: 500000
+Number of months: 105
+>>>
+
+
+ps1b:
+
+Test Case 1
+>>>
+Enter your annual salary: 120000
+Enter the percent of your salary to save, as a decimal: .05
+Enter the cost of your dream home: 500000
+Enter the semi-annual raise, as a decimal: .03
+Number of months: 142
+>>>
+
+Test Case 2
+>>>
+Enter your annual salary: 80000
+Enter the percent of your salary to save, as a decimal: .1
+Enter the cost of your dream home: 800000
+Enter the semi-annual raise, as a decimal: .03
+Number of months: 159
+>>>
+
+Test Case 3
+>>>
+Enter your annual salary: 75000
+Enter the percent of your salary to save, as a decimal: .05
+Enter the cost of your dream home: 1500000
+Enter the semi-annual raise, as a decimal: .05
+Number of months: 261
+>>>
+
+
+
+ps1c:
+
+Test Case 1
+>>>
+Enter the starting salary: 150000
+Best savings rate: 0.4453
+Steps in bisection search:  6
+>>>
+
+Test Case 2
+>>>
+Enter the starting salary: 300000
+Best savings rate: 0.2227
+Steps in bisection search:  7
+>>>
+
+Test Case 3
+>>>
+Enter the starting salary: 10000
+It is not possible to pay the down payment in three years.
+>>>
