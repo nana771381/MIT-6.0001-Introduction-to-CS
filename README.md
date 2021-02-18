@@ -11,4 +11,6 @@ Lec 1 -- ps0
 
 Lec 3 -- ps1
 
+Lec 5 -- ps2
+
 ...ongoing...
