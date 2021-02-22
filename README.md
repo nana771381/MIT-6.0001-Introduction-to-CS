@@ -14,6 +14,8 @@ in ps1, we get to predict the time taken to be able to buy a house, provided wit
 
 in ps2, we get to build a game hangman, with a library of secret words, hints, lives and warnings, which is very cool.
 
+in ps3, we get to build a scrabble game, and practise unit testing to prevent bug.
+
 -----------------------------------------------------------------------------
 
 Recommended lecture-assignment timeline:
@@ -23,5 +25,7 @@ Lec 1 -- ps0
 Lec 3 -- ps1
 
 Lec 5 -- ps2
+
+Lec 7 -- ps3
 
 ...ongoing...
