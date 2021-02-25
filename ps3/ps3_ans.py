@@ -5,7 +5,7 @@
 #
 # Name          : Lo Yen Xuan
 # Collaborators : -
-# Time spent    : <total time>
+# Time spent    : 4 hours
 
 import math
 import random
