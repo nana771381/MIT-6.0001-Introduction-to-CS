@@ -279,7 +279,7 @@ if __name__ == '__main__':
     print('Expected Output:', (24, 'hello'))
     print('Actual Output:', ciphertext.decrypt_message())
 
-    plaintext = PlaintextMessage('hairy balls', 1)
+    plaintext = PlaintextMessage('hairy balls', 27)
     print('Expected Output: ibjsz cbmmt')
     print('Actual Output:', plaintext.get_message_text_encrypted())
     
