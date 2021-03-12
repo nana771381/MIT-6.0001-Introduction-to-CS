@@ -1,5 +1,5 @@
 # MIT-6.0001-Introduction-to-CS
-Compilation of my assignment answers in python3. My assignment answers are files that are stored as xxx_ans.py.
+Compilation of my assignment answers in python3. My assignment answers for ps2 onwwards are files that are stored as xxx_ans.py.
 
 Source of lecture videos: https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
 
